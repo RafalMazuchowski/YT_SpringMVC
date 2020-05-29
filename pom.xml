@@ -51,7 +51,7 @@
 		<dependency>
   			<groupId>org.springframework</groupId>
   			<artifactId>spring-core</artifactId>
-  			<version>5.0.7</version>
+  			<version>5.0.7.RELEASE</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/jstl/jstl -->
